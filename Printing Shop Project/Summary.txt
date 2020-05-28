@@ -1,0 +1,8 @@
+The shop started with 1000.0 leva 
+Machine 1 printed: Harry Potter
+Machine 2 printed: Harry Potter
+Machine 1 printed: Lord of the rings
+Machine 2 printed: Lord of the rings
+Total expenses: 40.0 leva
+Gross profit: 437.0 leva
+Net profit 1397.0 leva
